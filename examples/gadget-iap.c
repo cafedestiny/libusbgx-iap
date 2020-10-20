@@ -1,7 +1,7 @@
 /*
- * Copyright (C) 2014 Samsung Electronics
+ * Copyright (C) 2020 KPIT Technologies
  *
- * Krzysztof Opasiak <k.opasiak@samsung.com>
+ * Sunita Chhetri <sunita.chhetri@kpit.com>
  *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by

@@ -32,6 +32,7 @@ mount usb1 -t functionfs  /var/volatile/tmp/ffs
 
 cd  /var/volatile/tmp/ffs
 /home/root/ffs-test &
+(TBD: url for ffs-test)
 
 6) Switch Accessory to Device Mode.
 
